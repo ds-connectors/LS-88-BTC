@@ -2,8 +2,9 @@
 
 Instructor, Fa17: Eric Van Dusen
 
+[![Datahub] (https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)] (http://datahub.berkeley.edu/user-redirect/interact?account=ds-connectors&repo=LS-88-BTC&branch=master&path=fa17/lab1)
 Lab 1 - Make a map of spring sites and dispenser sites in Kenya  
-(http://datahub.berkeley.edu/user-redirect/interact?account=ds-connectors&repo=LS-88-BTC&branch=master&path=fa17/lab1) ![alt text](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)
+
 
 
 Lab 2 - Lab on treatment arms – are arms balanced?  [ ](http://datahub.berkeley.edu/user-redirect/interact?account=ds-connectors&repo=LS-88-BTC&branch=master&path=fa17/lab2)  ![alt text](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)
