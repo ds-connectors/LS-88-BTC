@@ -12,7 +12,7 @@ Lab 4 - data on ecoli in springs & household from BWM [![Datahub](https://img.sh
 
 Lab 5 - WGP Water Guard Promotion [![Datahub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-connectors&repo=LS-88-BTC&branch=master&path=fa17/lab5)
 
-Lab 6– 3wk and LTF - Make a map of spring sites and dispenser sites in Kenya [![Datahub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-connectors&repo=LS-88-BTC&branch=master&path=fa17/lab6)
+Lab 6– 3wk and LTF - [![Datahub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-connectors&repo=LS-88-BTC&branch=master&path=fa17/lab6)
 
 Lab 7 - BWM part 1  -  [![Datahub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-connectors&repo=LS-88-BTC&branch=master&path=fa17/lab7)
 
